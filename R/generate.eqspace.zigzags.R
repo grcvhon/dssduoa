@@ -54,7 +54,7 @@ generate.eqspace.zigzags <- function(design, strata.id, samplers, line.length, s
     }
     return(NULL)
   }
-  start.x <- bbox[["xmin"]] + runif(1, 0, spacing) - spacing
+  start.x <- bbox[["xmin"]] #+ runif(1, 0, spacing) - spacing
   x.vals <- seq(start.x, (bbox[["xmax"]] + spacing), by = spacing)
   start.y <- rep(bbox[["ymin"]], length(x.vals))
   end.y <- rep(bbox[["ymax"]], length(x.vals))
@@ -64,7 +64,7 @@ generate.eqspace.zigzags <- function(design, strata.id, samplers, line.length, s
     end.y <- clipped.vals$end.y
   }
   #Randomise zig or zag at start
-  random.start <- rbinom(1, 1, 0.5)
+  #random.start <- rbinom(1, 1, 0.5)
   #Create the lines
   lines <- list()
   #counter <- 1
