@@ -64,7 +64,7 @@ generate.eqspace.zigzags <- function(design, strata.id, samplers, line.length, s
     end.y <- clipped.vals$end.y
   }
   #Randomise zig or zag at start
-  #random.start <- rbinom(1, 1, 0.5)
+  random.start <- start.x
   #Create the lines
   lines <- list()
   #counter <- 1
