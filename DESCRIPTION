@@ -1,4 +1,4 @@
-Package: dssd
+Package: dssd_uoa
 Imports:
     sf,
     ggplot2,
@@ -11,7 +11,7 @@ Suggests: knitr,
 VignetteBuilder: knitr
 Type: Package
 Title: Distance Sampling Survey Design
-Version: 1.0.2
+Version: 1.0.2-2025-03
 Authors@R: c(
   person("Laura", "Marshall", email = "lhm@st-andrews.ac.uk", role = c("aut", "cre")),
   person("Rexstad", "Eric", email = "eric.rexstad@st-andrews.ac.uk", role = "ctb"))
