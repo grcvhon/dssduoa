@@ -1,4 +1,4 @@
-Package: dssd_uoa
+Package: dssduoa
 Imports:
     sf,
     ggplot2,
