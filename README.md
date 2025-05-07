@@ -4,10 +4,7 @@ A version of the Distance Sampling Survey Design modified to generate transect l
 
 ---
 
-### dssd
-###Distance Sampling Survey Design
-
-===============================
+### dssd - Distance Sampling Survey Design
 <!---
 [![R-CMD-check](https://github.com/DistanceDevelopment/dssd/actions/workflows/check-standard.yaml/badge.svg)](https://github.com/DistanceDevelopment/dssd/actions/workflows/check-standard.yaml)
 -->
