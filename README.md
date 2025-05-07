@@ -2,9 +2,9 @@
 A version of the Distance Sampling Survey Design modified to generate transect lines which start at the corners of sampling blocks.
 Modified by: Laura Murray, Steve Delean, and Vhon Garcia (23 March 2025)
 
-===============================
+---
 
-## dssd
+### dssd
 Distance Sampling Survey Design
 ===============================
 <!---
@@ -16,13 +16,13 @@ Distance Sampling Survey Design
 
 `dssd` is a package for designing distance sampling surveys. It provides a number of designs including systematic point transect, parallel line transect, zigzag line transect and segment line transect designs.
 
-# Using `dssd`
+### Using `dssd`
 
 There are two vignettes within the dssd package to help you get started using `dssd`:
   - GettingStarted: "Getting Started with dssd"
   - MultiStrataVignette: "Multiple Strata in dssd"
 
-# Getting `dssd`
+### Getting `dssd`
 
 The easiest way to get `dssd` is to install it from CRAN within R-studio or the R interface. We endeavour to make all new functionality available on CRAN in a timely manor. However, if you wish to download the development version with the latest updates immediately you can do this using Hadley Wickham's `devtools` package:
 
