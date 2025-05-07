@@ -1,6 +1,6 @@
 # dssduoa
 A version of the Distance Sampling Survey Design modified to generate transect lines which start at the corners of sampling blocks.<br>
-Modified by: Laura Murray, Steve Delean, and Vhon Garcia (23 March 2025)
+<i>Modified by: Laura Murray, Steve Delean, and Vhon Garcia (23 March 2025)</i>
 
 ---
 
