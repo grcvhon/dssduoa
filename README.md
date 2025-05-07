@@ -3,7 +3,8 @@ A version of the Distance Sampling Survey Design modified to generate transect l
 Modified by: Laura Murray, Steve Delean, and Vhon Garcia (23 March 2025)
 
 ===============================
-# dssd
+
+## dssd
 Distance Sampling Survey Design
 ===============================
 <!---
